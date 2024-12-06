@@ -15,7 +15,7 @@ Avant tout, merci de l'attention que vous prêtez a ce code non qualitatif, réd
                                                                
 
 - PREREQUIS -
-De quoi compiler et lancer du c
+De quoi compiler et lancer du C (lancer un makefile)
 Python (toutes versions)
 OCAML (toutes version) https://ocaml.org/docs/installing-ocaml
 --------------
